@@ -2,10 +2,10 @@
 
 ## I'm a developer and an Anime connoisseur 🤖!
 - 🏮 Living in china and learning Chines, 您好！
-- 🤓 Just something I'm working on to help me [study] [study]
+- 🤓 Just something I'm working on to help me [study](https://gentle-retreat-64574.herokuapp.com/)
 - 👨‍🎓 Always learning 
 - 🥅 2020 Goals: Learn MERN stack 
-- 👨‍🔧 If you are hiring 2020 opined up my schedule 📅
+- 👨‍🔧 If you are hiring, 2020 opined up my schedule 📅
 
 ### Contact me: 
 
@@ -33,4 +33,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-francis-290547178
-[study]: https://gentle-retreat-64574.herokuapp.com/
