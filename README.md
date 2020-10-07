@@ -10,7 +10,7 @@
 ### Contact me: 
 
 [<img align="left" alt="Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][minutemailer]
+[<img align="left" alt="Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
 ---
@@ -34,4 +34,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-francis-290547178
-[minutemailer]: daniel.d.franciss@gmail.com
+[gmail]: daniel.d.franciss@gmail.com
