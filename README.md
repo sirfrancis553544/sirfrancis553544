@@ -4,7 +4,7 @@
 - 🏮 Living in china and learning Chines, 您好！
 - 🤓 Just something I'm working on to help me [study](https://gentle-retreat-64574.herokuapp.com/)
 - 👨‍🎓 Always learning 
-- 🥅 2020 Goals: Learn MERN stack 
+- 🥅 2020 Goals: Master MERN stack 
 - 👨‍🔧 If you are hiring, 2020 opined up my schedule 📅
 
 ### Contact me: 
