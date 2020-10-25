@@ -1,4 +1,4 @@
-### Hi, I'm Francis 👋
+### Hi, [I'm Francis][mysite] 👋
 
 ## I'm a Developer and an Anime connoisseur 🤖!
 - 🏮 Living in china and learning Chines, 你好！
@@ -34,4 +34,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-francis-290547178
+[mysite]: https://danielfrancis.netlify.app/
 
