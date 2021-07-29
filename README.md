@@ -1,7 +1,7 @@
 ### Hi, [I'm Francis][mysite] 👋
 
 ## I'm a Developer and an Anime connoisseur 🤖!
-- 🏮 Living in china and learning Chines, 你好！
+- 🏮 Living in china and learning Chinese, 你好！
 - 🤓 Just something I'm working on to help me [study](https://gentle-retreat-64574.herokuapp.com/)
 - 👨‍🎓 Always learning 
 - 🥅 2021 Goals: Master MERN stack 
