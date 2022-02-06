@@ -2,14 +2,14 @@
 
 ## I'm a Developer and an Anime connoisseur 🤖!
 - 🏮 Living in china and learning Chinese, 你好！
-- 🤓 Just something I'm working on to help me [study](https://gentle-retreat-64574.herokuapp.com/)
+- 🤓 I made some cool NFT [CarrotPerson](https://yettieclub.com/)
 - 👨‍🎓 Always learning 
-- 🥅 2021 Goals: Master MERN stack 
-- 👨‍🔧 If you are hiring, 2021 opined up my schedule 📅
+- 🥅 2022 Goals: Master web3
 
 ### Contact me: 
 
 [<img align="left" alt="Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -34,5 +34,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-francis-290547178
+[twitter]: https://twitter.com/Francis10576778
 [mysite]: https://danielfrancis.netlify.app/
 
