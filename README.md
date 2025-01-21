@@ -1,10 +1,7 @@
 ### Hi, [I'm Francis][mysite] 👋
 
 ## I'm a Developer and an Anime connoisseur 🤖!
-- 🏮 Living in china and working in web3, 你好！
-- 🤓 I made some cool NFT [CarrotPerson](https://yettieclub.com/)
-- 👨‍🎓 Always learning 
-- 🥅 2023 Goals: continuous improvement
+
 ### Contact me: 
 
 [<img align="left" alt="Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
