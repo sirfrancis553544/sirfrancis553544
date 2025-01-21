@@ -1,6 +1,6 @@
 ### Hi, [I'm Francis][mysite] 👋
 
-## I'm a Developer and an Anime connoisseur 🤖!
+
 
 ### Contact me: 
 
